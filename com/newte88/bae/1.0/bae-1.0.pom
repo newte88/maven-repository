@@ -5,5 +5,6 @@
   <groupId>com.newte88</groupId>
   <artifactId>bae</artifactId>
   <version>1.0</version>
+  <packaging>java-source</packaging>
   <description>POM was created from install:install-file</description>
 </project>
